@@ -5,7 +5,7 @@
 
 
 
-[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardoseibt/)
+[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-r-reis-athayde-86014a270)
 [![instragram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_marcelo_reis/)
 
 ![Marcelo GitHub Stats](https://github-readme-stats.vercel.app/api?username=Re1sMarcelo&show_icons=true&theme=dracula)
